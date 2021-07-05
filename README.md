@@ -21,7 +21,8 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran
 - 👨‍💻 I’m currently learning [nuxtjs](https://nuxtjs.org/) and lovely [tailwindcss](https://tailwindcss.com/).
 - 🛠 I’m currently working on an ecommerce laravel api based shop
 
-
+#### Here's my github stats
+![Mr648's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr648&show_icons=true&theme=tokyonight)
 #### I'm in ❤ with folowing programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr648&layout=compact&theme=blueberry&hide=yacc,lex&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=mr648&layout=compact&langs_count=8&theme=blueberry&hide=yacc,lex)
 #### Here is my last open-source project
