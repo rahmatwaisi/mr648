@@ -1,11 +1,11 @@
 ### Hi there 👋
  
-I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran->Kurdistan.
+I'm Rahmat Waisi, B.SE. from [UOK](https://en.uok.ac.ir/EN.aspx) university located in Iran->Kurdistan.
 - 🐱‍👤 I was ☕Java and 📱Android developer, but went to damn military service period ...😒😑😑
 - 😎 I started learning [laravel](https://laravel.com) three years ago and my learning will never stop again.
-- 👨‍💻 I’m currently learning [nuxtjs](https://nuxtjs.org/) and lovely [tailwindcss](https://tailwindcss.com/).
-- 🛠 I’m currently working on an ecommerce laravel api based shop
-- 
+- 👨‍💻 Nowadays i'm learning [nuxtjs](https://nuxtjs.org/) and lovely [tailwindcss](https://tailwindcss.com/).
+- 🛠 Currently working on an ecommerce laravel api based shop
+
 #### Social
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&color=263238&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rahmat-waisi-b1347586/)
 [![StackOverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/4101906?color=%23F59E0B&label=StackOverFlow&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/4101906/rahmat-waisi?tab=profile)
