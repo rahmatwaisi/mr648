@@ -5,7 +5,7 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran
 - 😎 I started learning [laravel](https://laravel.com) three years ago and my learning will never stop again.
 - 👨‍💻 I’m currently learning [nuxtjs](https://nuxtjs.org/) and lovely [tailwindcss](https://tailwindcss.com/).
 - 🛠 I’m currently working on an ecommerce laravel api based shop
-- 
+
 #### Social
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&color=263238&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rahmat-waisi-b1347586/)
 [![StackOverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/4101906?color=%23F59E0B&label=StackOverFlow&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/4101906/rahmat-waisi?tab=profile)
@@ -13,10 +13,6 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran
 [![Twitter](https://img.shields.io/static/v1?label=%20&message=Twitter&color=5E35B1&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/rahmatwaisi)
 [![Instagram](https://img.shields.io/static/v1?label=%20&message=Instagram&color=AEEA00&logo=instagram&style=for-the-badge&logoColor=212121)](https://instagram.com/rahmatwaisi)
 [![Personal website](https://img.shields.io/static/v1?label=%20&message=Website&color=33691E&logo=googlechrome&style=for-the-badge&logoColor=white)](http://rahmatwaisi.ir)
-
-
-#### Here's my github stats
-![Mr648's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr648&show_icons=true&theme=tokyonight)
 
 #### I'm in ❤ with folowing programming languages, frameworks, build tools and package managers
 ![Laravel](https://img.shields.io/static/v1?label=%20&message=Laravel&color=FF2D20&logo=laravel&style=for-the-badge&logoColor=white)
@@ -26,7 +22,8 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/static/v1?label=%20&message=Spring&color=6DB33F&logo=spring&style=for-the-badge&logoColor=white)
+![SpringBoot](https://img.shields.io/static/v1?label=%20&message=SpringBoot&color=6DB33F&logo=springboot&style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -39,10 +36,23 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran
 ![Gradle](https://img.shields.io/static/v1?label=%20&message=Gradle&color=02303A&logo=mysql&style=for-the-badge&logoColor=white)
 ![Maven](https://img.shields.io/static/v1?label=%20&message=Maven&color=C71A36&logo=apachemaven&style=for-the-badge&logoColor=white)
 ![Composer](https://img.shields.io/static/v1?label=%20&message=Composer&color=885630&logo=composer&style=for-the-badge&logoColor=white)
+![Yarn](https://img.shields.io/static/v1?label=%20&message=Yarn&color=2C8EBB&logo=yarn&style=for-the-badge&logoColor=white)
 
-#### I'm familiar with UI/UX and have skill in following design tools
+#### List of my favorite IDE's
+![PhpStorm](https://img.shields.io/static/v1?label=%20&message=PhpStorm&color=000000&logo=phpstorm&style=for-the-badge&logoColor=white)
+![AndroidStudio](https://img.shields.io/static/v1?label=%20&message=AndroidStudio&color=3DDC84&logo=androidstudio&style=for-the-badge&logoColor=white)
+![NetBeans](https://img.shields.io/static/v1?label=%20&message=NetBeans&color=1B6AC6&logo=apachenetbeanside&style=for-the-badge&logoColor=white)
+![Atom](https://img.shields.io/static/v1?label=%20&message=Atom&color=66595C&logo=atom&style=for-the-badge&logoColor=white)
+![VS-Code](https://img.shields.io/static/v1?label=%20&message=Visual%20Studio%Code&color=007ACC&logo=visualstudiocode&style=for-the-badge&logoColor=white)
+![Notepad++](https://img.shields.io/static/v1?label=%20&message=Notepad%2B%2B&color=90E59A&logo=notepadplusplus&style=for-the-badge&logoColor=white)
+
+#### I'm also familiar with UI/UX and have skill in following design tools
 ![Adobe Photoshop](https://img.shields.io/static/v1?label=%20&message=Adobe%20Photoshop&color=31A8FF&logo=adobephotoshop&style=for-the-badge&logoColor=white)
 ![Adobe XD](https://img.shields.io/static/v1?label=%20&message=Adobe%20XD&color=212121&logo=adobexd&style=for-the-badge&logoColor=FF61F6)
+
+
+#### Here's my github stats
+![Mr648's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr648&show_icons=true&theme=tokyonight)
 
 #### Here is my last open-source project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=PoL&theme=merko)](https://github.com/mr648/PoL)
