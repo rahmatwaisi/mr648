@@ -23,6 +23,6 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://uok.ac.ir) university located in Iran
 
 
 #### I'm in ❤ with folowing programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr648&layout=compact&langs_count=8&theme=blueberry&hide=yacc,lex)](https://github.com/mr648)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr648&layout=compact&theme=blueberry&hide=yacc,lex&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=mr648&layout=compact&langs_count=8&theme=blueberry&hide=yacc,lex)
 #### Here is my last open-source project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=PoL&theme=merko)](https://github.com/mr648/PoL)
