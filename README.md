@@ -14,7 +14,7 @@
 ## 👨‍💻 About me
 
 I'm Rahmat Waisi, B.SE. from [UOK](https://en.uok.ac.ir/EN.aspx) university located in Iran->Kurdistan.
-- 🐱‍👤 I was ☕Java and 📱Android developer, but went to damn military service period ...😒😑😑
+- 🐱‍👤 I was ☕Java and 📱Android developer, but went to god damn military service ...😒😑😑
 - 😎 I started learning [laravel](https://laravel.com) three years ago and my learning will never stop again.
 - 👨‍💻 Nowadays i'm learning [nuxtjs](https://nuxtjs.org/) and lovely [tailwindcss](https://tailwindcss.com/).
 - 🛠 Currently working on an ecommerce laravel api based shop
@@ -75,7 +75,7 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://en.uok.ac.ir/EN.aspx) university loca
 #### Here is list of my last open-source projects
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=PoL&theme=merko)](https://github.com/mr648/PoL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=zarinpal&theme=merko)](https://github.com/mr648/PoL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=zarinpal&theme=yeblu)](https://github.com/mr648/zarinpal)
 
 [![VISITS](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mr648&countColor=%234E342E)](https://github.com/estruyf/github-visitors-badge)
 
