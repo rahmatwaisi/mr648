@@ -51,14 +51,14 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://en.uok.ac.ir/EN.aspx) university loca
 [![MySQL](https://img.shields.io/static/v1?label=%20&message=MySQL&color=4479A1&logo=mysql&style=for-the-badge&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
 
-[![Gradle](https://img.shields.io/static/v1?label=%20&message=Gradle&color=02303A&logo=mysql&style=for-the-badge&logoColor=white)](https://gradle.org/)
+[![Gradle](https://img.shields.io/static/v1?label=%20&message=Gradle&color=02303A&logo=gradle&style=for-the-badge&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/static/v1?label=%20&message=Maven&color=C71A36&logo=apachemaven&style=for-the-badge&logoColor=white)](http://maven.apache.org/)
 [![Composer](https://img.shields.io/static/v1?label=%20&message=Composer&color=885630&logo=composer&style=for-the-badge&logoColor=white)](https://getcomposer.org/)
 [![Yarn](https://img.shields.io/static/v1?label=%20&message=Yarn&color=2C8EBB&logo=yarn&style=for-the-badge&logoColor=white)](https://yarnpkg.com/)
 
 
  
-### List of my favorite IDE's
+### List of my favorite Editors and IDE's
  
 [![PhpStorm](https://img.shields.io/static/v1?label=%20&message=PhpStorm&color=000000&logo=phpstorm&style=for-the-badge&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![AndroidStudio](https://img.shields.io/static/v1?label=%20&message=AndroidStudio&color=3DDC84&logo=androidstudio&style=for-the-badge&logoColor=white)](https://developer.android.com/studio/)
