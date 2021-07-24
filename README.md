@@ -2,7 +2,7 @@
 
 <div align='center'>
  
-[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&color=263238&logo=linkedin&style=for-the-badge&logoColor=white)](linkedin.com/in/rahmatwaisi/)
+[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&color=263238&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rahmatwaisi/)
 [![StackOverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/4101906?style=for-the-badge&logoColor=ffffff&color=F59E0B&label=%20&logo=stackoverflow)](https://stackoverflow.com/users/4101906/rahmat-waisi?tab=profile)
 [![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&color=3B82F6&logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/rahmatwaisi)
 [![Twitter](https://img.shields.io/static/v1?label=%20&message=Twitter&color=5E35B1&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/rahmatwaisi)
