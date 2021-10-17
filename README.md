@@ -76,7 +76,7 @@ I'm Rahmat Waisi, B.SE. from [UOK](https://en.uok.ac.ir/EN.aspx) university loca
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=PoL&theme=merko)](https://github.com/mr648/PoL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr648&repo=zarinpal&theme=yeblu)](https://github.com/mr648/zarinpal)
-
+[![CARD](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr648&theme=github_dark)](https://github.com/mr648)
+<br>
 [![VISITS](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mr648&countColor=%234E342E)](https://github.com/estruyf/github-visitors-badge)
-
 </div>
